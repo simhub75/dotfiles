@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hubert.simoes@gmail.com
+	name = Hubert Simoes
